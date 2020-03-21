@@ -16,3 +16,6 @@ This package launches gazebo world, Fetch robot, table and block on the table. T
 
 Example: <br>
 `roslaunch fetch_tufts pick_and_place_tufts.launch num_of_run:=2`
+``roslaunch fetch_tufts pick_and_place_tufts_multimodal.launch num_of_run:=2`
+
+
